@@ -1,0 +1,8 @@
+You have successfully registered at Timus Online Judge.
+
+Use the following requisites for working in the system:
+JUDGE_ID: 237347BH
+Password: adityadnj
+
+Timus Online Judge
+http://acm.timus.ru
