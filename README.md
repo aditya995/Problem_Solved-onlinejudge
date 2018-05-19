@@ -1,1 +1,1 @@
-The problems I solved from various online judges and contests.
+Problems solved in various online judges or websites.
